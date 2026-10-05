@@ -122,7 +122,7 @@ Delete `JuiceManager` from the scene and the game still runs, unchanged.
 
 
 
-Unity 6.3 LTS (6000.3), URP 2D. Open `Assets/\_Project/Scenes/JuiceLab.unity` and press Play.
+Unity 6.3 LTS (6000.3), URP 2D. Open `**[Playable WebGL demo](https://serkocyhn.itch.io/juicelab)** — every effect can be toggled at runtime.` and press Play.
 
 \*\*Tab\*\* toggles the effect panel.
 
